@@ -14,7 +14,7 @@ html, body, #root {
   animation: gradientShift 10s ease infinite;
 }
 .navbar {
-  background: linear-gradient(to right, #4154fb, #1100ff);
+  background: linear-gradient(to right, #410046, #240037);
   padding: 15px 30px;
   display: flex;
   justify-content: space-between;
